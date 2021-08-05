@@ -25,3 +25,5 @@ Sample Data:
 This CMS is used by Fortune 500 companies and likely hosted on subdomains that start with idea.* ideas.* innovation.* projects.*
 
 The purpose of this report is to get the Vendor to make Spigit secure by default, no unauthenticated nor unprivileged account should be able to query account details that are not visible by design on the CMS e.g. e-mail addresses, usernames.
+
+![alt text](https://github.com/FlaviuPopescu/Spigit-PoC/blob/main/2021-08-04%2017_48_12.png?raw=true)
